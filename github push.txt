@@ -1,0 +1,9 @@
+git pull
+git commit --interactive
+git push
+
+or
+
+git -a
+*** add discription line to file if requested
+git push
