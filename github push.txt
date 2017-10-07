@@ -1,9 +1,11 @@
+/ use this to push all files including untracked ones
+
 git pull
 git commit --interactive
 git push
 
-or
+/ or use this to only push tracked files
 
-git -a
+git connit -a
 *** add discription line to file if requested
 git push
